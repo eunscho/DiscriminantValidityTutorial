@@ -15,3 +15,5 @@ txt format, used in Mplus: ACSICovData.dat, ACSICovData.txt
 AMOS: ACSITutorial.amw
 
 LISREL: ACSI.ls8
+
+Mplus: ACSITutorial.inp
