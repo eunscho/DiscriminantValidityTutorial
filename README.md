@@ -6,7 +6,7 @@ It contains various data and codes for the tutorial on discriminant validity.
 
 SPSS Data format, used in AMOS: ACSICovData.sav
 
-txt format: ACSICovData.txt
+txt format, used in Mplus: ACSICovData.dat, ACSICovData.txt
 
 
 
