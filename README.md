@@ -1,10 +1,15 @@
 # DiscriminantValidityTutorial
 It contains various data and codes for the tutorial on discriminant validity.
 
-File descriptions
+Data files
 
-ACSICovData.sav : SPSS Data format, used in AMOS 
+SPSS Data format, used in AMOS: ACSICovData.sav
 
-ACSI.ls8 : LISREL code
+txt format: ACSICovData.txt
 
-ACSITutorial.amw: AMOS Graphics file
+
+SEM source files
+
+AMOS: ACSITutorial.amw
+
+LISREL: ACSI.ls8
