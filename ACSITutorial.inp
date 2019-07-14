@@ -24,3 +24,5 @@ MODEL:
 OUTPUT:
 	! Output the confidence intervals
 	CINTERVAL;
+	! Show standardized coefficients
+	STAND;
