@@ -17,3 +17,7 @@ AMOS: ACSITutorial.amw
 LISREL: ACSI.ls8
 
 Mplus: ACSITutorial.inp
+
+R: ACSIdemo.R
+
+STATA: ACSIdemo.do
