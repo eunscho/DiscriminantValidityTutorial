@@ -10,7 +10,7 @@ txt format, used in Mplus: ACSICovData.dat, ACSICovData.txt
 
 
 
-*SEM SOURCE FILES
+*Software syntax FILES
 
 AMOS: ACSITutorial.amw
 
