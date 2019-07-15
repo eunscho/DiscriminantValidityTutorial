@@ -22,7 +22,3 @@ R: ACSIdemo.R
 
 STATA: ACSIdemo.do
 
-
-* CALCULATORS
-
-DCCalc: for disattenuated correlations
