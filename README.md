@@ -1,5 +1,5 @@
 # DiscriminantValidityTutorial
-It contains various data and codes for the tutorial on discriminant validity.
+It contains data and syntax files for the tutorial on discriminant validity.
 
 
 * DATA FILES
